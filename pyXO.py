@@ -1,7 +1,7 @@
 """
 version 1.0B
 Written by: Teeraphat Kullanankanjana
-Computer Engineering Robotic adn Technology: CERT
+Computer Engineering Robotic and Technology: CERT
 Thai-Nichi Institute of Technology, Thailand
 """
 
